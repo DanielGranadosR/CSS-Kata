@@ -1,0 +1,296 @@
+
+
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Fredoka', sans-serif;
+}
+
+nav ul{
+    background-color: white;
+    width: 100%;
+    list-style-type: none;
+    text-align: right;
+    opacity: 0.5;
+}
+
+nav li{
+    display: inline-flex;
+}
+
+nav a{
+    text-decoration: dotted;
+    color: rgb(90, 88, 88);
+    padding: 30px;
+    width: 150px;
+}
+
+
+
+.vaccinetitle{
+    color: #06869F;
+    text-align: initial;
+}
+
+
+
+
+.contenido2{
+    width: 100%;
+    display: flex;
+    margin: 0%;
+    justify-content: end;
+   
+    
+}
+
+.nurse{
+    background-color: rgb(103, 103, 223);
+}
+
+
+.nurseimage{
+    width: 600px;
+    height: 700px;
+    
+    object-fit: cover;
+    
+    
+}
+
+.textnurse{
+    position: absolute;
+    top: 200px;
+    left: 100px;
+}
+.fi{
+    font-size: 50px;
+    font-weight:bolder;
+    color: rgb(103, 103, 223);
+}
+
+.fitext{
+    font-size: 28px;
+    color: rgb(103, 103, 223);
+}
+
+.duo li{
+    display: inline-flex;
+    color: rgb(108, 108, 248);
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    text-decoration: solid;
+}
+
+.duo ul{
+    
+    width: 100%;
+    list-style-type: none;
+    text-align: left;
+    
+    
+}
+
+/* Banner de en medio*/
+
+.tiposvac{
+    margin-top: 0%;
+    border: 0px;
+    width: 100%;
+    height: 250px;
+    background-color: #06869F;
+    
+}
+.banner{
+    border: 0px;
+    width: 100%;
+    height: 250px;
+    object-fit: fill;
+}
+
+/* Banner de en medio*/
+
+.whys{
+    display: flex;
+    width: 100%;
+    justify-content: left;
+}
+
+.textwhy{
+
+    align-items: center;
+    margin-top: 20px;
+}
+
+/* Why?*/
+.whys{
+    width: 100%;
+}
+
+.textwhy{
+
+    width: 100%;
+}
+
+.titlewhy{
+
+    font-size: 28px;
+    color: rgb(103, 103, 223);
+    font-weight: 900;
+    padding-left: 100px;
+    
+
+
+}
+
+.whytextvaccine{
+
+    font-size: 28px;
+    color: rgb(103, 103, 223);
+    font-weight: 900;
+    padding-left: 100px;
+    padding-right: 670px;
+
+}
+.middle ul{
+
+
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+
+
+}
+.middle li{
+
+    display: inline-flex;
+    color: rgb(108, 108, 248);
+    font-size: 28px;
+    padding: 65px;
+    width: 200px;
+    text-decoration: solid;
+    justify-content: space-around;
+    
+    
+}
+
+
+
+
+
+
+
+
+/* Preparaciones*/
+
+.preparations{
+    width: 100%;
+    
+    display: flex;
+    margin: 0%;
+    justify-content: flex-start;
+
+   
+    
+}
+.textprep{
+    position: absolute;
+    top: 1750px;
+    right: 30px;
+}
+
+
+.maskphoto{
+    background-color: rgb(103, 103, 223);
+    height:650px;
+    width: 500px;
+    
+    
+}
+
+.listd{
+
+    border:1px solid rgba(163, 163, 230, 0.63);
+    margin-top: 30px;
+    font-size: 28px;
+    color: rgb(103, 103, 223);
+
+}
+
+.listd2{
+
+    border:1px solid rgba(163, 163, 230, 0.63);
+    border-top-color: white;
+    font-size: 28px;
+    color: rgb(103, 103, 223);
+   
+
+}
+
+.listd3{
+
+    border:1px solid rgba(163, 163, 230, 0.63);
+    border-bottom-color: white;
+    margin-top: 30px;
+    font-size: 28px;
+    color: rgb(103, 103, 223);
+
+}
+
+
+
+.contact{
+    position: relative;
+    display: flex;
+    margin: 0%;
+    width: 550px;
+    left: 100px;
+    
+
+   
+    
+}
+
+
+
+.grid {
+    position: relative;
+    display: grid;
+    grid-template-columns: 300px 300px;
+    grid-template-rows: 300px 300px;
+    top: 2700px;
+    font-size: 28px;
+    color: rgb(103, 103, 223);
+  }
+
+  .b1{
+
+    font-size: 28px;
+    color: rgb(103, 103, 223);
+    background-color: rgb(191, 191, 240);
+  }
+  
+
+
+
+
+
+
+
+footer{
+    width: 100%;
+    height: 200%;
+    background-color: rgb(191, 191, 240);
+    color: rgb(103, 103, 223);
+    margin-top: 40px;
+}
+
+footer p{
+
+    text-align: center;
+    padding: 50px;
+}
+
+
+
